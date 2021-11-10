@@ -42,6 +42,10 @@ After CORE is started, you will need to build your network before running the pr
 
 ![Link](https://coreemu.github.io/core/static/pygui/link.png)
 
+An example structure is pictured below.
+
+![structure](https://github.com/binaery-a/broadcast_bully/blob/7e986e7765eb6a19ecbfbaf8bdad8ac50e7f0943/network%20strucuture.png)
+
 6. Once linked, press the **Start Button** on the left.
 7. Double click on each PC to open its terminal window. 
 8. Run the program with the command on each node:
