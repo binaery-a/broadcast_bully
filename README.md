@@ -45,7 +45,7 @@ After CORE is started, you will need to build your network before running the pr
 6. Once linked, press the **Start Button** on the left.
 7. Double click on each PC to open its terminal window. 
 8. Run the program with the command:
-`python3 broadcast_bully.py 'integer'` where `'integer'` represents the node's timeout period. So if you write `20`, the node will terminate after 20 seconds. Ideally, you would want to run each node with different timeout periods to test election coordination.
+```python3 broadcast_bully.py 'integer'``` where `'integer'` represents the node's timeout period. So if you write `20`, the node will terminate after 20 seconds. Ideally, you would want to run each node with different timeout periods to test election coordination.
 
 ## Demo
 
